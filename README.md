@@ -1,2 +1,2 @@
 # portfolio
-portfolio web
+https://www.kosukeohmura.com
