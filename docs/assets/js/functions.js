@@ -45,11 +45,4 @@ $(function() {
     $body.append($("<div class='preloader preloader-11'><div><span class='spinner'><span></div></div>"));
   }
 
-  /*===============================================
-    Below was written by pnpb
-  ===============================================*/
-
-  // Insert dynamic copyright
-  $(".copyright-kosukeohmura").text((new Date()).getFullYear());
-
 });
